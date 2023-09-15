@@ -32,3 +32,5 @@ Releases creado
 
 Header creado
 Work-experience creado
+
+Skills creado
