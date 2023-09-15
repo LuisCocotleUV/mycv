@@ -34,3 +34,4 @@ Header creado
 Work-experience creado
 
 Skills creado
+Certifications creado
