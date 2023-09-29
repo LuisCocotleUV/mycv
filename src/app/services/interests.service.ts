@@ -7,7 +7,7 @@ import { Observable, map } from 'rxjs';
 })
 export class InterestsService {
 
-  private apiUrl = 'https://api-cv-service-luiscocotleuv.cloud.okteto.net/'; 
+  private apiUrl = 'https://api-cv-service-luiscocotleuv.cloud.okteto.net'; 
 
   constructor(private http: HttpClient) { }
 
